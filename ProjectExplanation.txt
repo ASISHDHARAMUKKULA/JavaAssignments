@@ -1,0 +1,8 @@
+In this Project, One guesser , One Umpire and Three Players are present
+
+1)In the first round guesser will guess the number and give it to Umpire
+2)In the same way Players also guess the number and give it to Umpire
+3)Then Umpire will compare the Players guessed number with Guesser guessed number
+4)if any player matches the guesser number then that player will win the game.
+5) if two players matches the game then FinaleGame class will be execute where Guesser guess another number and give it to umpire and players also guess the number and give it to umpire.
+6) If both players number matched with guesser number then Both players won the game , otherwise if only one player number matches with guesser number then only one player won.
